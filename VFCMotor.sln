@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VFCMotor", "VFCMotor\VFCMotor.csproj", "{C4F5AAC7-DC09-4610-972F-0C4BF7EE499C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VFCSetUp", "VFCSetUp\VFCSetUp.vdproj", "{D403ECC4-CA2C-4139-A25F-E6165AD0078B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4F5AAC7-DC09-4610-972F-0C4BF7EE499C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F5AAC7-DC09-4610-972F-0C4BF7EE499C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F5AAC7-DC09-4610-972F-0C4BF7EE499C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F5AAC7-DC09-4610-972F-0C4BF7EE499C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D403ECC4-CA2C-4139-A25F-E6165AD0078B}.Debug|Any CPU.ActiveCfg = Debug
+		{D403ECC4-CA2C-4139-A25F-E6165AD0078B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D488B10-5EAD-4007-9BF8-FFCA90E6F14D}
+	EndGlobalSection
+EndGlobal
